@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavan Singh
-- 👀 I’m looking for new opportunities and upgrad my skill.
+- 👀 I’m looking for new opportunities and want to upgrad my skills.
 - 🌱 I’m currently doing B.tech CSE.
 - 💞️ I’m looking to collaborate on project and startups.
 - 📫 pawansingh0011178@gmail.com
