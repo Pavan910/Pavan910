@@ -1,72 +1,63 @@
-# 👋 Hi, I'm Pavan Singh  
-### 🚀 AI / ML Engineer | Python Developer | Technical Consultant  
+# Hi, I'm Pavan Singh 👋
 
-I’m passionate about building scalable AI/ML systems, automation tools, and full-stack applications. I love solving real-world problems with machine learning, backend development, and cloud technologies. Always learning, improving, and exploring new innovations in the AI ecosystem.
-
----
-
-## 👨‍💻 About Me  
-- 🎓 B.Tech in **Computer Science & Engineering (AI/ML)** – 2024  
-- 💼 Working as an **AI/ML Engineer** with experience in Python, AWS, Machine Learning and automation  
-- 🌱 Continuously upgrading my skills in advanced machine learning, cloud technologies, and backend systems  
-- 🤝 Open to collaborations on **AI/ML projects, startups, open-source contributions, and automation tools**  
+### AI/ML Engineer · Python Developer · Technical Consultant
+*Currently building production AI systems at TechnoSmart, Vadodara*
 
 ---
 
-## 🔧 Skills & Technologies  
+## About Me
 
-### **Machine Learning & AI**
-- ANN, CNN, RNN, Deep Learning  
-- NLP, Generative AI, LLaMA-based chatbots  
-- Recommendation Systems, Predictive Analytics  
-- Text Summarization Models  
+I'm an AI/ML Engineer with **2+ years of industry experience** (8-month internship + 1.5 years full-time) building scalable machine learning systems, automation pipelines, and backend applications. I specialize in deep learning, NLP, and cloud-based AI solutions using Azure AI Services and Python.
 
-### **Programming & Backend**
-- Python  
-- Django, Django REST Framework  
-- Flask & REST API development  
-- WebSockets  
-- Google OAuth 2.0, Google Picker API  
-
-### **Databases**
-- PostgreSQL  
-- MySQL  
-
-### **Cloud, Tools & Platforms**
-- Azure AI Services  
-- Docker  
-- Streamlit  
-- Git & GitHub  
-
+- 🎓 B.Tech in Computer Science & Engineering (AI/ML specialization) — DIT University, 2024
+- 💼 AI/ML Engineer at **TechnoSmart** — Azure AI, ML pipelines, Python backend systems
+- 🧪 Previously: ML Developer Intern @ **AspireNex** · Python/RPA Intern @ **Harptec**
+- 🌍 Exploring opportunities in **AI/ML research** and **graduate studies in Germany**
+- 📬 Reach me: [pawansingh0011178@gmail.com](mailto:pawansingh0011178@gmail.com)
 
 ---
 
-## 💼 Professional Experience  
+## Tech Stack
 
-### **AI / ML Engineer (Current Role) - TechnoSmart**  
-- Working on AI-driven solutions, automation workflows, and ML pipelines  
-- Hands-on with Azure AI, Python development, and technical consulting  
-- Building scalable backend and ML-based systems  
+**ML & AI**
+`Deep Learning` `NLP` `Generative AI` `LLaMA` `CNNs` `RNNs` `Recommendation Systems` `Predictive Analytics`
 
-### **Machine Learning Developer Intern – AspireNex**  
-- Developed and fine-tuned ML models  
-- Built predictive analytics models used in real deployments  
-- Optimized recommendation systems for accuracy and speed  
-- Mentored new interns on ML concepts and workflows  
+**Languages & Frameworks**
+`Python` `R` `Django` `Django REST Framework` `Flask` `WebSockets`
 
-### **Python Developer Intern – Harptec (Cybersecurity Team)**  
-- Built and deployed automation bots  
-- Created ML-based summarization models  
-- Worked as an RPA Engineer  
-- Gained hands-on experience with cybersecurity tools  
+**Cloud & Tools**
+`Azure AI Services` `Docker` `Streamlit` `PostgreSQL` `MySQL` `Git`
 
 ---
 
-## 📫 Contact  
-- **Email:** pawansingh0011178@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pavan-singh-b16652190/  
-- **GitHub:** https://github.com/Pavan910  
+## Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🎬 Movie Recommendation System](https://github.com/Pavan910/Python) | Content-based filtering system with Streamlit UI and deployed Procfile | Python, Streamlit, scikit-learn |
+| [🏠 House Price Prediction](https://github.com/Pavan910/machine-learning) | End-to-end regression pipeline with feature engineering and model evaluation | Python, scikit-learn, pandas |
+| [📈 Linear Regression from Scratch](https://github.com/Pavan910/machine-learning) | Implemented gradient descent and OLS regression with full statistical analysis | Python, NumPy, matplotlib |
+| [🌐 Web Scraping Toolkit](https://github.com/Pavan910/Python) | Automated data collection pipeline with BeautifulSoup and requests | Python, BeautifulSoup |
 
 ---
 
-✨ *Thanks for visiting my profile! Let's collaborate and build something impactful together.*  
+## Professional Experience
+
+**AI/ML Engineer — TechnoSmart** *(Current)*
+Building AI-driven automation workflows, ML pipelines, and scalable backend systems with Azure AI and Python.
+
+**ML Developer Intern — AspireNex**
+Developed and fine-tuned ML models for predictive analytics; built and optimized recommendation systems; mentored junior interns on ML workflows.
+
+**Python/RPA Developer Intern — Harptec (Cybersecurity Team)**
+Built automation bots and ML-based text summarization models; hands-on experience with RPA engineering and cybersecurity tooling.
+
+---
+
+## GitHub Stats
+
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan910&show_icons=true&theme=default&hide_border=true)
+
+---
+
+*Open to collaborations on AI/ML projects, open-source contributions, and research initiatives.*
